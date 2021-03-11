@@ -303,7 +303,7 @@ int main(){
 		  }
 	  printf("中间有%d个素数,它们的和为%d\n", count, sum);
 	  return 0;
-	}  //求素数和
+	} //求素数和
 
 
 
