@@ -18,4 +18,4 @@ double fun(int n){
 	}
 		return sqrt(sum); 
 
-}*/
+}
